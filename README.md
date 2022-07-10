@@ -39,8 +39,9 @@ Dataset taken from Paper "Event labeling combining ensemble detectors and backgr
 ## Conclusions(Business Recomendation)
 
 - The bikes rented will be more with each passing year.
-- The bikes rented are more in summer season thus hosting events or advertisements will be beneficial.
+- The bikes rented are more in summer and winter season thus hosting events or advertisements will be beneficial.
 - Month of August and October are the best months to rent bikes as they see most increase in bikes rented.
+- Month of Jan is not the best month to rent bikes as it sees decrease in bikes rented.
 - Days with low windspeed also see increase in bikes rented and are good opportunities for business.
 - The bikes rented are decreased in rainy and cloudy weather.
 
